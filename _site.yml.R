@@ -3,19 +3,19 @@ navbar:
   title: "Shouli Li"
 left:
   - text: "About"
-href: index.html
-- text: "Research"
-href: research.html
-- text: "CV"
-href: cv.html
-- text: "Photos"
-href: photos.html
-- text: "Contact"
-href: contact.html
+    href: index.html
+  - text: "Research"
+    href: research.html
+  - text: "CV"
+    href: cv.html
+  - text: "Photos"
+    href: photos.html
+  - text: "Contact"
+    href: contact.html
 output_dir: "."
 output:
-  html_document:
-  theme: spacelab
-highlight: textmate
-toc: true 
-toc_float: true
+    html_document:
+    theme: spacelab
+    highlight: textmate
+    toc: true 
+    toc_float: true
