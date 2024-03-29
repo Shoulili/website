@@ -15,6 +15,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Professor in Ecology and Biodiversity, Lanzhou University
 
-I am a quantitative ecologist. I mainly use statistics and mathematical models to explore ecological questions. My research interests lie in theoretical ecology, population ecology, disease ecology, and policy decision-making in the areas of ecological restoration, biodiversity conservation, invasive species management and optimal control of infectious disease under global change.
+I am a quantitative ecologist. I mainly use statistics and mathematical models to explore ecological questions. My research interests lie in theoretical ecology, population ecology, disease ecology, and policy decision-making in the areas of ecological restoration, biodiversity conservation, invasive species management and optimal control of infectious disease under global changes.
 
-I am currently a professor in Ecology & Biodiversity at Lanzhou University. I received my Ph.D at Utrecht University, the Netherlands. After my Ph.D, I did my postdoc at University of Turku, Finland and Pennsylvania State University, US. I currently serve as an editorial member of Journal of Ecology and Population Ecology.
+I am currently a professor in Ecology & Biodiversity at Lanzhou University. I received my Ph.D at Utrecht University, the Netherlands. After my Ph.D, I did my postdoc at University of Turku, Finland and Pennsylvania State University, US. I currently serve as an editorial member of Journal of Ecology, Population Ecology and Communications Biology.
