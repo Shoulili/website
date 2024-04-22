@@ -1,11 +1,14 @@
 name: "my-website"
 navbar:
   title: "Shouli Li"
-left:
+   left:
   - text: "About"
     href: index.html
   - text: "Research"
     href: research.html
+   - text: "Current Projects"
+    href: Current Projects.html   
+    
 output_dir: "."
 output:
     html_document:
