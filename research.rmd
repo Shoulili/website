@@ -1,12 +1,13 @@
 ---
 title: "Research"
-# author: "Shouli"
-# date: "3/13/2024"
-output: html_document
+#author: "Shouli Li"
+#date: "2024-03-13"
+output:
+  html_document:default
 ---
-  
-  ```{r setup, include=FALSE}
-# don't show code unless we explicitly set echo = TRUE
+
+```{r setup, include=FALSE}
+library(knitr)
 knitr::opts_chunk$set(echo = FALSE)
 require(here)
 ```
