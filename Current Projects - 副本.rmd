@@ -1,12 +1,13 @@
 ---
-title: "Research"
-# author: "Shouli"
-# date: "3/13/2024"
-output: html_document
+title: "Current Research Projects"
+#author: "Shouli Li"
+#date: "2024-03-13"
+output:
+  html_document:default
 ---
-  
-  ```{r setup, include=FALSE}
-# don't show code unless we explicitly set echo = TRUE
+
+```{r setup, include=FALSE}
+library(knitr)
 knitr::opts_chunk$set(echo = FALSE)
 require(here)
 ```
@@ -14,8 +15,8 @@ require(here)
 
 ![](D:/GitHub_repos/website/photos/zhao2.jpg){width=80%}
 
-My lab has established several permanent research platforms to conduct long-term ecological researches under climate change in the cold and dry regions in China.These research platforms provide an excellent opportunity for international collaborative projects.
-  
+My lab has established several permanent research platforms to conduct long-term ecological researches under climate change in the cold and dry regions in China.These research platforms provide an excellent opportunity for international collaborative projects. 
+
 <br>
 
 # **Climate change**
@@ -30,7 +31,7 @@ We have established permanent study plots to monitor the population dynamics of 
 
 
 
-Long-term precipitation platforms to study how plants in desertified sandland respond to changes in precipitation; 
+Long-term precipitation resarch platforms to study how plants in desertified sandland respond to changes in precipitation; 
 
 
 

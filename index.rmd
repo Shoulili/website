@@ -9,7 +9,13 @@ output:
 ```{r setup, include=FALSE}
 library(knitr)
 knitr::opts_chunk$set(echo = FALSE)
+require(here)
 ```
+
+
+
+
+
 
 ![](D:/GitHub_repos/website/photos/headshot_2024.jpg){width="25%"}
 

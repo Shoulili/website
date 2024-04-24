@@ -1,5 +1,5 @@
 ---
-title: "Current Projects"
+title: "Curent projects and collabration possibilities"
 #author: "Shouli Li"
 #date: "2024-03-13"
 output:
@@ -15,7 +15,15 @@ require(here)
 
 ![](D:/GitHub_repos/website/photos/zhao2.jpg){width=80%}
 
+I systematically study the key population dynamic processes underling grassland restoration, which provide the in-depth ecological understanding essential for the sustainable management of grasslands. My lab has  established several permanent research platforms to conduct long-term ecological researches under climate change in the cold and dry regions in China, including 1) long-term warming and precipitation controlling experimental system on Tibetan Plateau to examine the responses of dominant alpine plant species to climate warming and precipitation changing; 2) long-term study plots to monitor the population dynamics of dominant alpine plants along elevation gradients on Tibetan Plateau; 3) long-term precipitation platforms to study how plants in desertified sandland respond to changes in precipitation; 4）long-term nitrogen addition experiments on Tibetan Plateau and Inner-Mongolia grasslands. These research platforms provide an excellent opportunity for international collaborative projects.
+
+
 My lab has established several permanent research platforms to conduct long-term ecological researches under climate change in the cold and dry regions in China.These research platforms provide an excellent opportunity for international collaborative projects. 
+
+
+I systematically study the key population dynamic processes underling grassland restoration, which provide the in-depth ecological understanding essential for the sustainable management of grasslands. My lab has has established several permanent research platforms to conduct long-term ecological researches under climate change in the cold and dry regions in China, including 1) long-term warming and precipitation controlling experimental system on Tibetan Plateau to examine the responses of dominant alpine plant species to climate warming and precipitation changing; 2) long-term study plots to monitor the population dynamics of dominant alpine plants along elevation gradients on Tibetan Plateau;3)long-term studies to examine the demographic responses of alpine plants to different grazing regimes on the grasslands of Tibetan Plateau; 4) long-term platforms to study how plants in desertified sandland respond to changes in precipitation; 5）long-term experiments on Tibetan Plateau and Inner-Mongolia to examine the effects of nutrient addition on grasslands in alpine and arid regions. These research platforms also provide an excellent opportunity for international collaborative projects.
+
+
 
 <br>
 
@@ -24,18 +32,18 @@ My lab has established several permanent research platforms to conduct long-term
 ![](D:/GitHub_repos/website/photos/seasonal_warming.jpg){width=80%}
 
 
-We have established long-term seasonal warming experiments at two sites (3200m a.b.s and 4750m a.b.s) on Tibetan Plateau to examine the demographic responses of dominant alpine plants to climate warming.
+Long-term seasonal warming experiments at two sites (3200m a.b.s and 4750m a.b.s) on Tibetan Plateau to examine the demographic responses of dominant alpine plants to climate warming.
 
 <br>
 
 
 ![](D:/GitHub_repos/website/photos/elevation.jpg){width=100%}
-We have established permanent study plots to monitor the population dynamics of dominant alpine plants along elevation gradients on Tibetan Plateau
+Population dynamics of dominant alpine plants along elevation gradients on Tibetan Plateau
 
 <br>
 
 
-Long-term precipitation resarch platforms to study how plants in desertified sandland respond to changes in precipitation; 
+Long-term precipitation research platforms to study how plants in （semi-）arid sandland respond to changes in precipitation; 
 
 
 
