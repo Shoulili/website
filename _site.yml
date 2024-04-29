@@ -6,8 +6,8 @@ navbar:
       href: index.html
     - text: "Research"
       href: research.html
-    - text: "Projects & collabration opportunities"
-      href: Projects & collabration opportunities.html
+    - text: "Current-Projects"
+      href: Current-Projects.html
     - text: "CV"
       href: Shouli Li April 2024 CV.pdf
 output_dir: "."
